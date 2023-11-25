@@ -31,7 +31,7 @@ To use the program after cloneing/Downloading.
 
   
 
-## Download GUI Application
+## Download GUI version 
 
 Download the GUI version of this program
 
