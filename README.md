@@ -34,3 +34,5 @@ To use the program after cloneing/Downloading.
 ## Download GUI Application
 
 Download the GUI version of this program
+
+[Download EXE](https://github.com/theprogrammersystem/tts/releases/tag/tts_v0.1)
