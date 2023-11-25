@@ -1,2 +1,2 @@
-# tts
-Takes to speech converter
+# TTS
+Takes to speech converter in python
